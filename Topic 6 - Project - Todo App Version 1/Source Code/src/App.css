@@ -1,0 +1,28 @@
+
+
+h1{
+    font-weight: 700;
+    color: rgb(78, 78, 78);
+    font-size:45px;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+.items-container{
+    text-align: left;
+    font-weight: 500;
+}
+
+.my-row{
+    margin-top: 10px;
+}
+
+.my-btn{
+    min-width: 80px;
+    cursor: pointer;
+}
