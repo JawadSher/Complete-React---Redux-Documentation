@@ -82,4 +82,4 @@ React and Redux are powerful libraries for building dynamic and scalable web app
 To get started with the Complete React Redux Documentation, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/complete-react-redux-documentation.git
+git clone https://github.com/JawadSher/Complete-React-Redux-Documentation.git
