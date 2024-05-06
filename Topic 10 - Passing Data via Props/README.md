@@ -1,4 +1,4 @@
-- Passing data via props is a fundamental concept in React, a JavaScript library for building user interfaces. Props (short for properties) are a way of passing data from parent to child components. Here's a basic explanation of how it works
+Passing data via props is a fundamental concept in React, a JavaScript library for building user interfaces. Props (short for properties) are a way of passing data from parent to child components. Here's a basic explanation of how it works
 
 ## Parent component 
 - This is the component that renders another component(s) inside it and passes data to them via props.
