@@ -1,0 +1,12 @@
+.inputField{
+    width: 100%;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+
+.myBtn{
+    min-width: 80px;
+    cursor: pointer;
+}
+
